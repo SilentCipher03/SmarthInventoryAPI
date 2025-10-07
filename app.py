@@ -48,7 +48,7 @@ def feedback():
     feedback_text = data.get("feedback","")
     sentiment = analyze_feedback(feedback_text)
 
-    return jsonify({"feedback":feedback_text,"sentiment_score":sentiment})
+    return jsonify({"feedback":feedback_text,"sentiment_score":sentimentgit })
 if __name__ == "__main__":
     app.run(debug=True)
 
