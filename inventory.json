@@ -1,0 +1,31 @@
+[
+    {
+        "ProductID": "P002",
+        "ProductName": "Alluminium Sheet",
+        "Stock": 80,
+        "Price": 800.0
+    },
+    {
+        "ProductID": "P001",
+        "ProductName": "Copper Rod",
+        "Stock": 120,
+        "Price": 500.0
+    },
+    {
+        "ProductID": "P001",
+        "ProductName": "Copper Rod",
+        "Stock": 120,
+        "Price": 500.0
+    },
+    {
+        "ProductID": "P002",
+        "ProductName": "Alluminium Sheets",
+        "Stock": 80,
+        "Price": 800.0
+    },
+    {
+        "ProductID": "P002",
+        "ProductName": "Wire Coil",
+        "Stock": 20
+    }
+]
